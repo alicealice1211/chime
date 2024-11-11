@@ -1,7 +1,5 @@
-# chime
-Chime log in automation
 Chime Automation Script
-Description
+Description:
 This script automates the process of logging into a Chime bank account and scraping the balance information using the Selenium WebDriver. 
 It handles steps such as entering credentials, dealing with two-factor authentication, and navigating through the user interface to retrieve the balance from a checking account.
 
